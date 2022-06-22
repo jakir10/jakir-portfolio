@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/xz0hm1R/jakir-s-photography.png",
+        "name": "Jakir's Photography",
+        "tools": "HTML, CSS, Javascript, React,React Bootstrap, Firebase",
+        "description": "This is a Swervice based Photography  website created using only HTML, CSS and JavaScript, react, React router Firebase authentication. This is a single page website. This website includes some services, information about me, Blogs, some reviews and login/sign up form. This website is fully responsive.",
+        "code": "https://github.com/programming-hero-web-course-4/independent-service-provider-jakir10",
+        "link": "https://independent-service-prov-522f0.web.app/"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/FhYmdFq/movies-world.png",
+        "name": "Movies world",
+        "description": "This is an movies review website. There is a simple dashboard design with chart diagram.Also has a blog page and about page. This website is responsive",
+        "tools": "React, CSS, React Router, Bootstrap",
+        "code": "https://github.com/jakir10/movies-world",
+        "link": "https://movies-world-jakir.netlify.app/"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/GQLswJZ/gadget-house.png",
+        "name": "Gadget House",
+        "description": "This is a Warehouse management website of various types of gadgets are stored here.this site created using only react, react Bootstrap, and JavaScript. This is a single page website.This website is fully responsive.",
+        "tools": "HTML, CSS,react, react Bootstrap, Javascript, node js ,express js, react router, firebase",
+        "code": "https://github.com/jakir10/gadget-house-client",
+        "link": "https://warehouse-management-cli-5198c.web.app/"
+    }
+]
