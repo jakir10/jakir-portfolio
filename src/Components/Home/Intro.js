@@ -1,5 +1,4 @@
 import React from 'react';
-// import SocialLinks from '../SocialLinks/SocialLinks';
 import './Intro.css';
 
 const Intro = () => {
@@ -16,7 +15,7 @@ const Intro = () => {
                 <div className='flex gap-5'>
 
                     <a href="https://docs.google.com/document/d/18wQ_gacBSO-KFoFp_qEeOhngFN_J3ZTC/edit" download="Jakir-Resume.pdf" className="btn btn-primary mt-5 button-link bg-secondary my-btn uppercase text-white font-bold text-center">Download CV</a>
-                    <a href='#about' className="btn btn-primary mt-5 button-link bg-secondary my-btn uppercase text-white font-bold text-center">About me</a>
+                    <a href='/about' className="btn btn-primary mt-5 button-link bg-secondary my-btn uppercase text-white font-bold text-center">About me</a>
                 </div>
             </div>
         </section>

@@ -7,6 +7,8 @@ import About from './Components/About';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Contact from './Components/Home/Contact';
+import Blogs from './Components/Blogs';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -14,9 +16,11 @@ function App() {
       <Navbar></Navbar>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="about" element={<About />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/blog" element={<Blogs />} />
         <Route path="contact" element={<Contact />} />
       </Routes>
+      <Footer />
       <ToastContainer />
     </div>
   );
