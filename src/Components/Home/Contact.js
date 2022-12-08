@@ -19,7 +19,7 @@ const Contact = () => {
             toast.success('Thanks for Contact me!');
         }
 
-        emailjs.sendForm('service_iv5q7xc', 'template_k4c6gok', form.current, 'F3WDtSYc5q9QO0klC')
+        emailjs.sendForm('service_sbsrg3r', 'template_dcck86v', form.current, 'Kn-mjWewQZ0mwDrbc')
             .then((result) => {
                 console.log(result?.text);
             }, (error) => {
